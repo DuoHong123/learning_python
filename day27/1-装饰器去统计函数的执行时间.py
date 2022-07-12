@@ -17,4 +17,3 @@ def test1():
       pass
 
 test1()
-print('hello world')
